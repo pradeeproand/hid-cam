@@ -14,7 +14,7 @@
 img {
     position: absolute;
     height: auto;
-    width: 100%;
+    width: auto;
 }
 
 button {
@@ -22,15 +22,19 @@ button {
     height: 50px;
     width: auto;
     padding: 10px 20px;
-    border-color: white;
     align-items: center;
     justify-content: center;
     text-align: center;
     text-justify: auto;
-    margin-right: 70%;
-    margin-top: 20%;
+    margin-right: 50%;
+    margin-top: auto;
     border-radius: 20px;
-    background-color: wheat;
+    background-color: white;
+    border: 1px solid;
+    border-color: white;
+    box-shadow: 5px 10px;
+    font-family: cursive;
+    font-weight: bold;
 }
 
 button:hover {

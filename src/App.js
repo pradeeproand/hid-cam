@@ -1,9 +1,8 @@
 import React, { useRef, useState } from 'react';
 import Webcam from 'webcam-react';
 import fire from './Fire';
-import { StyleSheet } from "react-dom";
 import './App.css'
-import image from './photo/img.png';
+import image from './photo/blackImage.jpg';
 
 function App() {
     const photoRef = useRef(null);
@@ -25,10 +24,9 @@ function App() {
         img src = { image }
         alt = '' / >
         <
-        button onClick = { showPhoto } > Ping < /button> <
-        /div>
+        button onClick = { showPhoto } > ON < /button> < /
+        div >
     );
-
 }
 
 export default App;
