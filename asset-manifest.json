@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hid-cam/static/css/main.c377141f.chunk.css",
+    "main.js": "/hid-cam/static/js/main.1258df91.chunk.js",
+    "main.js.map": "/hid-cam/static/js/main.1258df91.chunk.js.map",
+    "runtime-main.js": "/hid-cam/static/js/runtime-main.7d6ecd2b.js",
+    "runtime-main.js.map": "/hid-cam/static/js/runtime-main.7d6ecd2b.js.map",
+    "static/js/2.e533a33f.chunk.js": "/hid-cam/static/js/2.e533a33f.chunk.js",
+    "static/js/2.e533a33f.chunk.js.map": "/hid-cam/static/js/2.e533a33f.chunk.js.map",
+    "index.html": "/hid-cam/index.html",
+    "static/css/main.c377141f.chunk.css.map": "/hid-cam/static/css/main.c377141f.chunk.css.map",
+    "static/js/2.e533a33f.chunk.js.LICENSE.txt": "/hid-cam/static/js/2.e533a33f.chunk.js.LICENSE.txt",
+    "static/media/img.84c452d7.png": "/hid-cam/static/media/img.84c452d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6ecd2b.js",
+    "static/js/2.e533a33f.chunk.js",
+    "static/css/main.c377141f.chunk.css",
+    "static/js/main.1258df91.chunk.js"
+  ]
+}
