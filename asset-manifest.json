@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hid-cam/static/css/main.c377141f.chunk.css",
-    "main.js": "/hid-cam/static/js/main.1258df91.chunk.js",
-    "main.js.map": "/hid-cam/static/js/main.1258df91.chunk.js.map",
+    "main.css": "/hid-cam/static/css/main.349a5abb.chunk.css",
+    "main.js": "/hid-cam/static/js/main.b182d6af.chunk.js",
+    "main.js.map": "/hid-cam/static/js/main.b182d6af.chunk.js.map",
     "runtime-main.js": "/hid-cam/static/js/runtime-main.7d6ecd2b.js",
     "runtime-main.js.map": "/hid-cam/static/js/runtime-main.7d6ecd2b.js.map",
-    "static/js/2.e533a33f.chunk.js": "/hid-cam/static/js/2.e533a33f.chunk.js",
-    "static/js/2.e533a33f.chunk.js.map": "/hid-cam/static/js/2.e533a33f.chunk.js.map",
+    "static/js/2.09bd81e1.chunk.js": "/hid-cam/static/js/2.09bd81e1.chunk.js",
+    "static/js/2.09bd81e1.chunk.js.map": "/hid-cam/static/js/2.09bd81e1.chunk.js.map",
     "index.html": "/hid-cam/index.html",
-    "static/css/main.c377141f.chunk.css.map": "/hid-cam/static/css/main.c377141f.chunk.css.map",
-    "static/js/2.e533a33f.chunk.js.LICENSE.txt": "/hid-cam/static/js/2.e533a33f.chunk.js.LICENSE.txt",
-    "static/media/img.84c452d7.png": "/hid-cam/static/media/img.84c452d7.png"
+    "static/css/main.349a5abb.chunk.css.map": "/hid-cam/static/css/main.349a5abb.chunk.css.map",
+    "static/js/2.09bd81e1.chunk.js.LICENSE.txt": "/hid-cam/static/js/2.09bd81e1.chunk.js.LICENSE.txt",
+    "static/media/blackImage.70bcf9aa.jpg": "/hid-cam/static/media/blackImage.70bcf9aa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d6ecd2b.js",
-    "static/js/2.e533a33f.chunk.js",
-    "static/css/main.c377141f.chunk.css",
-    "static/js/main.1258df91.chunk.js"
+    "static/js/2.09bd81e1.chunk.js",
+    "static/css/main.349a5abb.chunk.css",
+    "static/js/main.b182d6af.chunk.js"
   ]
 }
