@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.Main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+img {
+    position: absolute;
+    height: auto;
+    width: 100%;
+}
+
+button {
+    position: relative;
+    height: 50px;
+    width: auto;
+    padding: 10px 20px;
+    border-color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-justify: auto;
+    margin-right: 70%;
+    margin-top: 20%;
+    border-radius: 20px;
+    background-color: wheat;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+}
